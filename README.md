@@ -1,6 +1,8 @@
 # Data Science Research project: International Disasters
 
-<img src="./Disaster_img.jpg" alt="Disaster image" style="width:50px; height:50px;"/>
+<p align="center">
+    <img src="./Disaster_img.jpg" alt="Disaster image" width="400px" height="400px"/>
+</p>
 
 # Introduction
 
